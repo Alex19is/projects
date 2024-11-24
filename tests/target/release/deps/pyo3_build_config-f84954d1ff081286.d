@@ -1,0 +1,13 @@
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/libpyo3_build_config-f84954d1ff081286.rmeta: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/errors.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/impl_.rs /home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config-file.txt /home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config.txt
+
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/libpyo3_build_config-f84954d1ff081286.rlib: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/errors.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/impl_.rs /home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config-file.txt /home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config.txt
+
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/pyo3_build_config-f84954d1ff081286.d: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/errors.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/impl_.rs /home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config-file.txt /home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config.txt
+
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/lib.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/errors.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.2/src/impl_.rs:
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config-file.txt:
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/build/pyo3-build-config-ce29ac49524dcf70/out

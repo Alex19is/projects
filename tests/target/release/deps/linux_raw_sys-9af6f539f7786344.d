@@ -1,0 +1,11 @@
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/liblinux_raw_sys-9af6f539f7786344.rmeta: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/elf.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/errno.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/general.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/ioctl.rs
+
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/liblinux_raw_sys-9af6f539f7786344.rlib: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/elf.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/errno.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/general.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/ioctl.rs
+
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/linux_raw_sys-9af6f539f7786344.d: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/elf.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/errno.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/general.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/ioctl.rs
+
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/lib.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/elf.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/errno.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/general.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.10/src/x86_64/ioctl.rs:

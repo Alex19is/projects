@@ -1,0 +1,12 @@
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/libsugars-9f69467a27b5e8f0.rmeta: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/collections.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/comprehension.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/hash.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/pointer.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/times.rs
+
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/libsugars-9f69467a27b5e8f0.rlib: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/collections.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/comprehension.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/hash.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/pointer.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/times.rs
+
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/release/deps/sugars-9f69467a27b5e8f0.d: /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/lib.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/collections.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/comprehension.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/hash.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/pointer.rs /home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/times.rs
+
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/lib.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/collections.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/comprehension.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/hash.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/pointer.rs:
+/home/sasha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sugars-3.0.1/src/times.rs:

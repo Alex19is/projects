@@ -1,0 +1,1 @@
+/home/sasha/DisSys/hw-01-Alex19is/tests/target/debug/guarantees: /home/sasha/DisSys/hw-01-Alex19is/tests/src/common.rs /home/sasha/DisSys/hw-01-Alex19is/tests/src/main.rs /home/sasha/DisSys/hw-01-Alex19is/tests/src/tests.rs /home/sasha/DisSys/hw-01-Alex19is/tests/src/tests_mc.rs
